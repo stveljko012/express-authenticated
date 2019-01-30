@@ -1,5 +1,5 @@
 {
-  "name": "ts-ts-express-authenticated",
+  "name": "ts-express-authenticated",
   "version": "1.0.0",
   "description": "Decorator for handler functions to check is request is authenticated.",
   "main": "dist/index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stveljko012/ts-ts-express-authenticated.git"
+    "url": "git+https://github.com/stveljko012/ts-express-authenticated.git"
   },
   "keywords": [
     "node",
@@ -24,7 +24,7 @@
   "author": "Veljko Stanojevic <stveljko012@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/stveljko012/ts-ts-express-authenticated/issues"
+    "url": "https://github.com/stveljko012/ts-express-authenticated/issues"
   },
-  "homepage": "https://github.com/stveljko012/ts-ts-express-authenticated#readme"
+  "homepage": "https://github.com/stveljko012/ts-express-authenticated#readme"
 }

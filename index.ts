@@ -1,4 +1,4 @@
-export default function Authenticated(parameter: string = 'authed', msg: string = 'Unauthorized access.') {
+export function Authenticated(parameter: string = 'authed', msg: string = 'Unauthorized access.') {
     return function(target: Object, propertyKey: string, descriptor: TypedPropertyDescriptor<any>) {
         const originalMethod = descriptor.value; // save a reference to the original method
     
